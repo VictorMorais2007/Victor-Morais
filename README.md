@@ -1,4 +1,4 @@
-## Meu nome Victor Morais
+## Meu nome **Victor Morais**
 
 > Estou estudando na Alura;
 > 
